@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bước 1 -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnuInDam"
+        android:title="In đậm"></item>
+    <item
+        android:id="@+id/mnuMauDo"
+        android:title="Tô chữ màu đỏ"></item>
+    <item
+        android:id="@+id/mnuXoa"
+        android:title="Xóa control này"></item>
+</menu>
